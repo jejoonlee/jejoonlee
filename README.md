@@ -4,12 +4,11 @@
 
 
 <a href="https://github.com/jejoonlee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jejoonlee&theme=default&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jejoonlee&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/jejoonlee/github-readme-statst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejoonlee&layout=compact" />
+<a href="https://solved.ac/jejoonlee">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jejoonlee" />
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jejoonlee)](https://solved.ac/jejoonlee)
 
 
