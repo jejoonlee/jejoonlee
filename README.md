@@ -1,12 +1,15 @@
 # Hi, My Name Is Je Joon Lee
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjejoonlee&count_bg=%23FF0000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jejoonlee&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jejoonlee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jejoonlee&theme=default&show_icons=true" />
+</a>
+<a href="https://github.com/jejoonlee/github-readme-statst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejoonlee&layout=compact" />
+</a>
 
-[![Je Joon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jejoonlee&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jejoonlee)](https://solved.ac/jejoonlee)
 
 
