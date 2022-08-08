@@ -1,6 +1,6 @@
 # Hi, My Name Is Je Joon Lee
 
-![football](README.assets/football.png)
+![football](README.assets/IMG_3322.JPG)
 
 🏀⚽**I love SPORT** ⚽🏀
 
