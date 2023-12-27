@@ -1,7 +1,28 @@
 # Hi, My Name Is Je Joon Lee
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joon's%Github&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joon's%20Github&fontSize=90" />	
+</div>
+
+<div align=center>
+	<h3>🧑‍💻 Tech Stack 🧑‍💻</h3>
+	<p>📖 Languages & Frameworks 📖</p>
+</div>
+
+<div align=center>
+	<p>📚 Libraries 📚</p>
+</div>
+
+<div align=center>
+	<p>🛠️ Tools 🛠️</p>
+</div>
+
+<div align=center>
+	<p>🗄️ Database 🗄️</p>
+</div>
+
+<div align=center>
+	<p>📝 Blog & Portfolio 📝</p>
 </div>
 
 <div align="center">
