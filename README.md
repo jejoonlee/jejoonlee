@@ -1,6 +1,8 @@
 # Hi, My Name Is Je Joon Lee
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeJoon'sGithub&fontSize=70" />
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joon's%Github&fontSize=90" />	
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
