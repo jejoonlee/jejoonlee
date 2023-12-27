@@ -1,6 +1,6 @@
 # Hi, My Name Is Je Joon Lee
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Je Joon's Github%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeJoon'sGithub%20render&fontSize=90" />
 
 <a href="https://instagram.com/joons_217">
     <img 
