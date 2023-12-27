@@ -8,8 +8,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![football](README.assets/IMG_3322.JPG)
-
 🏀⚽**I love SPORT** ⚽🏀
 
 ✈️**I love TRAVELING**✈️
