@@ -1,5 +1,7 @@
 # Hi, My Name Is Je Joon Lee
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Je Joon's Github&fontSize=90" />
+
 <a href="https://instagram.com/joons_217">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/joons_217/"
