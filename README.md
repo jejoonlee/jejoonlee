@@ -97,7 +97,7 @@
 	<br>
 	<h3>🧑‍💻 Baekjoon 🧑‍💻</h3>
 	<a href="https://solved.ac/jejoonlee07">
-	  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jejoonlee" />
+	  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jejoonlee07" />
 	</a>
 </div>
 
